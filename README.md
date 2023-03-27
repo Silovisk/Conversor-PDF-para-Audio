@@ -1,4 +1,4 @@
-# Conversor-PDF-para-Audio
+# Conversor PDF para Audio
 
 O meu programa em Python é capaz de converter qualquer arquivo PDF em um arquivo de áudio no formato MP3. 
 Essa conversão é feita usando a tecnologia de reconhecimento de voz, que é capaz de ler o texto do PDF e transformá-lo em áudio. 
